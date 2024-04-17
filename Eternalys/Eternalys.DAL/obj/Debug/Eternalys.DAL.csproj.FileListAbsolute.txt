@@ -1,0 +1,12 @@
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\Eternalys.DAL.dll.config
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\Eternalys.DAL.dll
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\Eternalys.DAL.pdb
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\EntityFramework.dll
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\EntityFramework.xml
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\obj\Debug\Eternalys.DAL.csproj.AssemblyReference.cache
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\obj\Debug\Eternalys.DAL.csproj.CoreCompileInputs.cache
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\obj\Debug\Eternalys.DAL.csproj.CopyComplete
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\obj\Debug\Eternalys.DAL.dll
+C:\Users\spellcaster\source\repos\Eternalys\Eternalys.DAL\obj\Debug\Eternalys.DAL.pdb
